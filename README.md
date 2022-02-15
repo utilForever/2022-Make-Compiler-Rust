@@ -21,7 +21,40 @@
 
 ## Contents
 
-- TBD
+- Compiler & Virtual Machines
+  - Compilers
+  - Virtual and Real Machines
+- Bytecode
+  - First Instructions
+  - Adding on The Stack
+- Compiling Expressions
+  - Cleaning Up The Stack
+  - Infix Expressions
+  - Booleans
+  - Comparison Operators
+  - Prefix Expressions
+- Conditionals
+  - Jumps
+  - Compiling Conditionals
+  - Executing Jumps
+  - Null
+- Keeping Track of Names
+  - Compiling Bindings
+  - Adding Globals to The VM
+- String, Array and Hash
+  - String
+  - Array
+  - Hash
+  - Adding The Index Operator
+- Functions
+  - A Simple Function
+  - Local Bindings
+  - Arguments
+- Built-in Functions
+- Closures
+  - Compiling and Resolving Free Variables
+  - Creating Real Closures at Run Time
+  - Recursive Closures
 
 ## How To Contribute
 
